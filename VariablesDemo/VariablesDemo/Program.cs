@@ -10,7 +10,8 @@ namespace VariablesDemo
     {
         static void Main(string[] args)
         {
-            
+            int temp = 10;
+            Console.WriteLine($"First C# pgm id: {temp}");
         }
     }
 }
