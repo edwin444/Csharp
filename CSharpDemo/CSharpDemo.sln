@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDemo", "VariablesD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{065AC614-5882-4805-ACB6-F1F52C930D36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassConcepts", "ClassConcepts\ClassConcepts.csproj", "{F8276F7E-5852-4D8A-895F-60CB1773A5C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{065AC614-5882-4805-ACB6-F1F52C930D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065AC614-5882-4805-ACB6-F1F52C930D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065AC614-5882-4805-ACB6-F1F52C930D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8276F7E-5852-4D8A-895F-60CB1773A5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8276F7E-5852-4D8A-895F-60CB1773A5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8276F7E-5852-4D8A-895F-60CB1773A5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8276F7E-5852-4D8A-895F-60CB1773A5C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
